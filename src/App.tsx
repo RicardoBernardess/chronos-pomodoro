@@ -11,3 +11,5 @@ export function App() {
     </TaskContextProvider>
   );
 }
+
+// TESTE
