@@ -5,5 +5,5 @@ type HeadingProps = {
 };
 
 export function Heading({ children }: HeadingProps) {
-  return <div className={styles.heading}>{children}</div>;
+  return <h1 className={styles.heading}>{children}</h1>;
 }
