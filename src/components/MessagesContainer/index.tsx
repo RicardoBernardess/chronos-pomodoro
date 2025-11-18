@@ -10,7 +10,7 @@ export function MessagesContainer({ children }: MessagesContainer) {
       {children}
 
       <ToastContainer
-        position='top-right'
+        position='top-center'
         autoClose={10000}
         hideProgressBar={false}
         newestOnTop={false}
